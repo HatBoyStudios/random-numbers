@@ -5,8 +5,8 @@ var x_fix, y_fix;
 var sr_x, sr_y;
 
 var sr_exit_count = Math.floor(Math.random() * 4)+1;
-var alt_x = Math.floor(Math.random() *2 )+1;
-var alt_y = Math.floor(Math.random() *2 )+1;
+var alt_x = Math.floor(Math.random() * 2)+1;
+var alt_y = Math.floor(Math.random() * 2)+1;
 
 var external_rooms = [];
 var er_placement = []
